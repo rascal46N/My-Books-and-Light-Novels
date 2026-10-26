@@ -29,12 +29,29 @@
   **https://www.goodreads.com/book/show/9252263-the-indian-theogony?ref=nav_sb_ss_1_15**
   
 - **Lokayata Darshan** (*Lokayata: A Study in Ancient Indian Materialism*) — Debiprasad Chattopadhyaya
-- **Pachajanya Part-I** — Gajendra Kumar Mitra
-- **Pachajanya Part-II** — Gajendra Kumar Mitra
+
+  **https://www.goodreads.com/book/show/4572059-lokayata?ref=nav_sb_ss_2_5**
+  
+- **Panchajanya Part-I** — Gajendra Kumar Mitra
+- **Panchajanya Part-II** — Gajendra Kumar Mitra
+
+**https://www.goodreads.com/book/show/203623028-m-g-panchajanya-in-bengali?ref=nav_sb_ss_1_11**
+
 - **The Song of Hiawatha** — Henry Wadsworth Longfellow
+
+  **https://www.goodreads.com/book/show/780875.The_Song_of_Hiawatha?ref=nav_sb_ss_2_8**
+  
 - **Some Early Codes and Ciphers** — author to be confirmed
-- **The Surprise of Haruhi Suzumiya** — Nagaru Tanigawa
-- **The Surprise of Haruhi Suzumiya** — Nagaru Tanigawa
+- **The Surprise of Haruhi Suzumiya (First Part)** — Nagaru Tanigawa
+- **The Surprise of Haruhi Suzumiya (Final Part)** — Nagaru Tanigawa
+
+  **https://www.goodreads.com/book/show/17333221**
+  
 - **Tao Te Ching: An Accurate Translation** — Lao Tzu; Translated by Derek Lin
-- **Tao Te Ching: Annotated and Explained** — Lao Tzu; translator/commentator to be confirmed
-- **The Bhagavad Gita** — translated by Eknath Easwaran
+- **Tao Te Ching: Annotated and Explained** — Lao Tzu; translated and Annotated by Derek Lin
+
+  **https://www.goodreads.com/book/show/136356**
+  
+- **The Bhagavad Gita - Introduced & Translated by Eknath Easwaran** — Krishna-Dwaipayana Vyasa; Translated by Eknath Easwaran
+
+  **https://www.goodreads.com/book/show/34909756-the-bhagavad-gita---introduced-translated-by-eknath-easwaran?ref=nav_sb_ss_2_20**
