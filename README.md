@@ -1,8 +1,11 @@
 # Booklist
 
-Books currently in the collection. Goodreads links and any uncertain edition/translator details can be filled in later.
+<small> Books currently in the collection. Goodreads links and any uncertain edition/translator details can be filled in later. </small>
 
-- **An Autobiography: The Story of My Experiments with Truth** — Mohandas Karamchand Gandhi [Goodreads link]
+- **An Autobiography: The Story of My Experiments with Truth** — Mohandas Karamchand Gandhi
+
+**https://www.goodreads.com/book/show/58905550-mahatma-gandhi-autobiography**
+  
 - **Animal Farm** — George Orwell [Goodreads link]
 - **Bhagavad Gita** — translated by Swami Swarupananda [Goodreads link]
 - **Christ the Messenger** — Swami Vivekananda [Goodreads link]
@@ -17,6 +20,6 @@ Books currently in the collection. Goodreads links and any uncertain edition/tra
 - **Some Early Codes and Ciphers** — author to be confirmed [Goodreads link]
 - **The Surprise of Haruhi Suzumiya** — Nagaru Tanigawa [Goodreads link]
 - **The Surprise of Haruhi Suzumiya** — Nagaru Tanigawa [Goodreads link]
-- **Tao Te Ching: An Accurate Translation** — Lao Tzu; translator to be confirmed [Goodreads link]
+- **Tao Te Ching: An Accurate Translation** — Lao Tzu; Translated by Derek Lin [Goodreads link]
 - **Tao Te Ching: Annotated and Explained** — Lao Tzu; translator/commentator to be confirmed [Goodreads link]
 - **The Bhagavad Gita** — translated by Eknath Easwaran [Goodreads link]
