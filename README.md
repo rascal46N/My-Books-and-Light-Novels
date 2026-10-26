@@ -1,16 +1,19 @@
-# Booklist
+<h1 align="center">Booklist</h1>
 
 <small> Books currently in the collection. Goodreads links and any uncertain edition/translator details can be filled in later. </small>
 
 - **An Autobiography: The Story of My Experiments with Truth** — Mohandas Karamchand Gandhi
 
-    **https://www.goodreads.com/book/show/58905550-mahatma-gandhi-autobiography**
+  **https://www.goodreads.com/book/show/58905550-mahatma-gandhi-autobiography**
   
 - **Animal Farm** — George Orwell
   
-    **https://www.goodreads.com/book/show/170448.Animal_Farm?ref=nav_sb_ss_1_5**
+  **https://www.goodreads.com/book/show/170448.Animal_Farm?ref=nav_sb_ss_1_5**
   
-- **Bhagavad Gita** — translated by Swami Swarupananda 
+- **Bhagavad Gita** — translated by Swami Swarupananda
+
+  **https://www.goodreads.com/book/show/219253799-srimad-bhagavad-gita-by-swami-swarupananda?ref=nav_sb_ss_1_18**
+  
 - **Christ the Messenger** — Swami Vivekananda
 
   **https://www.goodreads.com/book/show/41975125-christ-the-messenger?ref=nav_sb_ss_1_20**
@@ -20,6 +23,9 @@
   **https://www.goodreads.com/book/show/2021816**
   
 - **The Essentials of Hinduism** — Swami Vivekananda
+
+  <br>
+  
 - **The Etymologicon: A Circular Stroll Through the Hidden Connections of the English Language** — Mark Forsyth
 
   **https://www.goodreads.com/book/show/12870068-the-etymologicon?ref=nav_sb_ss_1_12**
@@ -41,7 +47,10 @@
 
   **https://www.goodreads.com/book/show/780875.The_Song_of_Hiawatha?ref=nav_sb_ss_2_8**
   
-- **Some Early Codes and Ciphers** — author to be confirmed
+- **Some Early Codes and Ciphers** — Subhash C Kak
+
+  <br>
+  
 - **The Surprise of Haruhi Suzumiya (First Part)** — Nagaru Tanigawa
 - **The Surprise of Haruhi Suzumiya (Final Part)** — Nagaru Tanigawa
 
