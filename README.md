@@ -51,7 +51,7 @@
   
 - **Some Early Codes and Ciphers** — Subhash C Kak
 
- **https://www.researchgate.net/publication/268649355_Some_Early_Codes_and_Ciphers**
+   **https://www.researchgate.net/publication/268649355_Some_Early_Codes_and_Ciphers**
   
 - **The Surprise of Haruhi Suzumiya (First Part)** — Nagaru Tanigawa
 - **The Surprise of Haruhi Suzumiya (Final Part)** — Nagaru Tanigawa
