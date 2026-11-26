@@ -26,7 +26,7 @@
   
 - **The Essentials of Hinduism** — Swami Vivekananda
 
-  <br>
+  **https://books.google.co.in/books/about/Essentials_of_Hinduism.html?id=PCiiDAAAQBAJ&source=kp_book_description&redir_esc=y**
   
 - **The Etymologicon: A Circular Stroll Through the Hidden Connections of the English Language** — Mark Forsyth
 
