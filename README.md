@@ -66,3 +66,11 @@
 - **The Bhagavad Gita - Introduced & Translated by Eknath Easwaran** — Krishna-Dwaipayana Vyasa; Translated by Eknath Easwaran
 
   **https://www.goodreads.com/book/show/34909756-the-bhagavad-gita---introduced-translated-by-eknath-easwaran?ref=nav_sb_ss_2_20**
+
+- **The Homeric Hymns** — Traditionally attributed to Homer; edited by Thomas W. Allen and E. E. Sikes
+
+  **https://www.goodreads.com/book/show/45087074**
+
+- **Why Can’t the Devil Get a Second Chance? A Hidden Contradiction in Anselm’s Account of the Devil’s Fall** — Michael Barnwell, Niagara University
+
+  **https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TeC3pMQAAAAJ&citation_for_view=TeC3pMQAAAAJ:LkGwnXOMwfcC**
