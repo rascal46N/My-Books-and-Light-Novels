@@ -1,7 +1,17 @@
 <h1 align="center">Booklist</h1>
 
 <p align="center">
-  <sub>Books currently in the collection. Goodreads links and any uncertain edition/translator details can be filled in later.</sub>
+<sub>
+  Anyone and everyone is welcome to contribute to this repository!
+  Upload books relevant to the collection, and please provide accurate
+  book information and a proper link in the README Booklist.
+</sub>
+</p>
+
+ <p align="center">
+  <a href="https://github.com/rascal46N/Books-on-Hinduism">
+    <img src="https://img.shields.io/github/stars/rascal46N/Books-on-Hinduism?style=for-the-badge&logo=github&label=%E2%AD%90%20STAR%20THIS%20REPO&color=yellow" alt="Star this repository on GitHub">
+  </a>
 </p>
 
 - **An Autobiography: The Story of My Experiments with Truth** — Mohandas Karamchand Gandhi
@@ -74,3 +84,12 @@
 - **Why Can’t the Devil Get a Second Chance? A Hidden Contradiction in Anselm’s Account of the Devil’s Fall** — Michael Barnwell, Niagara University
 
   **https://scholar.google.com/citations?view_op=view_citation&hl=en&user=TeC3pMQAAAAJ&citation_for_view=TeC3pMQAAAAJ:LkGwnXOMwfcC**
+
+---
+
+<p align="center">
+  If you find this collection useful, please ⭐ star the repository
+  and help more readers discover it!
+</p>
+
+---
