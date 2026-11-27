@@ -77,6 +77,10 @@
 
   **https://www.goodreads.com/book/show/34909756-the-bhagavad-gita---introduced-translated-by-eknath-easwaran?ref=nav_sb_ss_2_20**
 
+- **Shri Hanuman Chalisa: Mahaviri Vyakhya Sahit** — Goswami Tulsidas; commentary by Jagadguru Ramanandacharya Swami Ramabhadracharya
+
+    **https://www.goodreads.com/book/show/58885556-shri-hanuman-chalisa?ref=nav_sb_ss_1_44**
+
 - **The Homeric Hymns** — Traditionally attributed to Homer; edited by Thomas W. Allen and E. E. Sikes
 
   **https://www.goodreads.com/book/show/45087074**
